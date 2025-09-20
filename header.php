@@ -271,7 +271,7 @@ margin-left:10px;
         <div class="container">
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
-              <a class="cs_site_branding" href="index.html">
+              <a class="cs_site_branding" href="index.php">
                 <img src="assets/img/logo.png" id="logopng" alt="Logo">
               </a>
             </div>
@@ -281,25 +281,25 @@ margin-left:10px;
                   <li class="menu-item">
                     <a href="index.php">Home</a>
                   </li>
-                  <li><a href="about-us.html">About Us</a></li>
+                  <li><a href="about-us.php">About Us</a></li>
                   <li class="menu-item-has-children">
-                    <a href="service.html">Services</a>
+                    <a href="service.php">Services</a>
                     <ul>
-                      <li><a href="service.html">Services</a></li>
-                      <li><a href="service-details.html">Service Details</a></li>
+                      <li><a href="service.php">Services</a></li>
+                      <li><a href="service-details.php">Service Details</a></li>
                     </ul>
                   </li>
                   <!-- <li class="menu-item-has-children">
                     <a href="#">Pages</a>
                     <ul>
-                      <li><a href="team.html">Team</a></li>
-                      <li><a href="team-details.html">Team Details</a></li>
-                      <li><a href="projects.html">Projects</a></li>
-                      <li><a href="project-details.html">Project Details</a></li>
+                      <li><a href="team.php">Team</a></li>
+                      <li><a href="team-details.php">Team Details</a></li>
+                      <li><a href="projects.php">Projects</a></li>
+                      <li><a href="project-details.php">Project Details</a></li>
                     </ul>
                   </li> -->
                  
-                  <li><a href="contact.html">Contact</a></li>
+                  <li><a href="contact.php">Contact</a></li>
                 </ul>
               </div>
             </div>

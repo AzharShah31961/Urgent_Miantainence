@@ -18,7 +18,7 @@ include('header.php')
                   <h1 class="cs_hero_title cs_white_color cs_fs_74 cs_mb_18">Keeping You Cool All Year Round</h1>
                   <p class="cs_hero_subtitle cs_white_color cs_mb_34">Common signs include unusual noises, reduced airflow, uneven cooling, strange odors, and higher energy bills</p>
                   <div class="cs_hero_btns">
-                    <a href="about-us.html" class="cs_btn cs_style_1">
+                    <a href="about-us.php" class="cs_btn cs_style_1">
                       <span>Read More</span>
                       <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M8.28125 0.71875L13.7812 5.96875C13.9271 6.11458 14 6.29167 14 6.5C14 6.70833 13.9271 6.88542 13.7812 7.03125L8.28125 12.2812C7.90625 12.5729 7.55208 12.5729 7.21875 12.2812C6.92708 11.9062 6.92708 11.5521 7.21875 11.2188L11.375 7.25H0.75C0.291667 7.20833 0.0416667 6.95833 0 6.5C0.0416667 6.04167 0.291667 5.79167 0.75 5.75H11.375L7.21875 1.78125C6.92708 1.44792 6.92708 1.09375 7.21875 0.71875C7.55208 0.427083 7.90625 0.427083 8.28125 0.71875Z" fill="currentColor"/>
@@ -47,7 +47,7 @@ include('header.php')
                   <h1 class="cs_hero_title cs_white_color cs_fs_74 cs_mb_18">Fast & Reliable AC Fixes Hub</h1>
                   <p class="cs_hero_subtitle cs_white_color cs_mb_34">Common signs of AC problems include unusual noises, reduced airflow, uneven cooling, strange odors, and unexpectedly higher energy bills.</p>
                   <div class="cs_hero_btns">
-                    <a href="about-us.html" class="cs_btn cs_style_1">
+                    <a href="about-us.php" class="cs_btn cs_style_1">
                       <span>Login</span>
                       <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M8.28125 0.71875L13.7812 5.96875C13.9271 6.11458 14 6.29167 14 6.5C14 6.70833 13.9271 6.88542 13.7812 7.03125L8.28125 12.2812C7.90625 12.5729 7.55208 12.5729 7.21875 12.2812C6.92708 11.9062 6.92708 11.5521 7.21875 11.2188L11.375 7.25H0.75C0.291667 7.20833 0.0416667 6.95833 0 6.5C0.0416667 6.04167 0.291667 5.79167 0.75 5.75H11.375L7.21875 1.78125C6.92708 1.44792 6.92708 1.09375 7.21875 0.71875C7.55208 0.427083 7.90625 0.427083 8.28125 0.71875Z" fill="currentColor"/>
@@ -76,7 +76,7 @@ include('header.php')
                   <h1 class="cs_hero_title cs_white_color cs_fs_74 cs_mb_18">Expert Cooling Solutions</h1>
                   <p class="cs_hero_subtitle cs_white_color cs_mb_34">Watch for unusual noises, reduced airflow, uneven cooling, strange odors, and higher energy bills as common signs of AC issues.</p>
                   <div class="cs_hero_btns">
-                    <a href="about-us.html" class="cs_btn cs_style_1">
+                    <a href="about-us.php" class="cs_btn cs_style_1">
                       <span>Read More</span>
                       <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M8.28125 0.71875L13.7812 5.96875C13.9271 6.11458 14 6.29167 14 6.5C14 6.70833 13.9271 6.88542 13.7812 7.03125L8.28125 12.2812C7.90625 12.5729 7.55208 12.5729 7.21875 12.2812C6.92708 11.9062 6.92708 11.5521 7.21875 11.2188L11.375 7.25H0.75C0.291667 7.20833 0.0416667 6.95833 0 6.5C0.0416667 6.04167 0.291667 5.79167 0.75 5.75H11.375L7.21875 1.78125C6.92708 1.44792 6.92708 1.09375 7.21875 0.71875C7.55208 0.427083 7.90625 0.427083 8.28125 0.71875Z" fill="currentColor"/>
@@ -267,7 +267,7 @@ include('header.php')
                 </div>
                 <div class="cs_height_33 cs_height_lg_30"></div>
                 <div class="cs_about_btns">
-                  <a href="about-us.html" class="cs_btn cs_style_1">
+                  <a href="about-us.php" class="cs_btn cs_style_1">
                     <span>Read More</span>
                     <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M8.28125 0.71875L13.7812 5.96875C13.9271 6.11458 14 6.29167 14 6.5C14 6.70833 13.9271 6.88542 13.7812 7.03125L8.28125 12.2812C7.90625 12.5729 7.55208 12.5729 7.21875 12.2812C6.92708 11.9062 6.92708 11.5521 7.21875 11.2188L11.375 7.25H0.75C0.291667 7.20833 0.0416667 6.95833 0 6.5C0.0416667 6.04167 0.291667 5.79167 0.75 5.75H11.375L7.21875 1.78125C6.92708 1.44792 6.92708 1.09375 7.21875 0.71875C7.55208 0.427083 7.90625 0.427083 8.28125 0.71875Z" fill="currentColor"></path>
@@ -310,7 +310,7 @@ include('header.php')
                 <p class="cs_service_card_number cs_center cs_fs_48 cs_bold cs_mb_22">01</p>
                 <h3 class="cs_service_card_title cs_fs_24 cs_semibold cs_mb_15">ComfortCare Tune-Up</h3>
                 <p class="cs_service_card_subtitle cs_mb_15">24/7 emergency repair services for sudden breakdowns</p>
-                <a href="service-details.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="service-details.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"/>
@@ -374,7 +374,7 @@ include('header.php')
                 <p class="cs_service_card_number cs_center cs_fs_48 cs_bold cs_mb_22">02</p>
                 <h3 class="cs_service_card_title cs_fs_24 cs_semibold cs_mb_15">Frosty Flow Systems</h3>
                 <p class="cs_service_card_subtitle cs_mb_15">Common signs include reduced <br>cooling efficiency strange</p>
-                <a href="service-details.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="service-details.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"/>
@@ -438,7 +438,7 @@ include('header.php')
                 <p class="cs_service_card_number cs_center cs_fs_48 cs_bold cs_mb_22">03</p>
                 <h3 class="cs_service_card_title cs_fs_24 cs_semibold cs_mb_15">Breeze Tech Cooling</h3>
                 <p class="cs_service_card_subtitle cs_mb_15">It is recommended to service a <br>your air conditioner signs </p>
-                <a href="service-details.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="service-details.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"/>
@@ -502,7 +502,7 @@ include('header.php')
                 <p class="cs_service_card_number cs_center cs_fs_48 cs_bold cs_mb_22">04</p>
                 <h3 class="cs_service_card_title cs_fs_24 cs_semibold cs_mb_15">Eco Cool Maintenance</h3>
                 <p class="cs_service_card_subtitle cs_mb_15">Check the thermostat settings <br>clean or replace the filter</p>
-                <a href="service-details.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="service-details.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"/>
@@ -566,7 +566,7 @@ include('header.php')
                 <p class="cs_service_card_number cs_center cs_fs_48 cs_bold cs_mb_22">05</p>
                 <h3 class="cs_service_card_title cs_fs_24 cs_semibold cs_mb_15">ArcticShield Repairs</h3>
                 <p class="cs_service_card_subtitle cs_mb_15">strange noises, unpleasant and <br>odors, and increased </p>
-                <a href="service-details.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="service-details.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"/>
@@ -630,7 +630,7 @@ include('header.php')
                 <p class="cs_service_card_number cs_center cs_fs_48 cs_bold cs_mb_22">06</p>
                 <h3 class="cs_service_card_title cs_fs_24 cs_semibold cs_mb_15">Cool Breeze Solutions</h3>
                 <p class="cs_service_card_subtitle cs_mb_15">Testing and analysis of indoor <br>air quality with Air</p>
-                <a href="service-details.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="service-details.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"/>
@@ -1041,7 +1041,7 @@ include('header.php')
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">Clean condenser coil</li>
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">AC fan replacement  </li>
                     </ul>
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_type_1">
+                    <a href="contact.php" class="cs_btn cs_style_1 cs_type_1">
                       <span>Choose Plan</span>              
                     </a>
                   </div>
@@ -1070,7 +1070,7 @@ include('header.php')
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">Clean condenser coil</li>
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">AC fan replacement  </li>
                     </ul>
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_type_1">
+                    <a href="contact.php" class="cs_btn cs_style_1 cs_type_1">
                       <span>Choose Plan</span>              
                     </a>
                   </div>
@@ -1099,7 +1099,7 @@ include('header.php')
                       <li><img src="assets/img/icons/tick.svg" alt="">Clean condenser coil</li>
                       <li><img src="assets/img/icons/tick.svg" alt="">AC fan replacement  </li>
                     </ul>
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_type_1">
+                    <a href="contact.php" class="cs_btn cs_style_1 cs_type_1">
                       <span>Choose Plan</span>              
                     </a>
                   </div>
@@ -1132,7 +1132,7 @@ include('header.php')
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">Clean condenser coil</li>
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">AC fan replacement  </li>
                     </ul>
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_type_1">
+                    <a href="contact.php" class="cs_btn cs_style_1 cs_type_1">
                       <span>Choose Plan</span>              
                     </a>
                   </div>
@@ -1161,7 +1161,7 @@ include('header.php')
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">Clean condenser coil</li>
                       <li class="cs_close_featue"><img src="assets/img/icons/tick.svg" alt="">AC fan replacement  </li>
                     </ul>
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_type_1">
+                    <a href="contact.php" class="cs_btn cs_style_1 cs_type_1">
                       <span>Choose Plan</span>              
                     </a>
                   </div>
@@ -1190,7 +1190,7 @@ include('header.php')
                       <li><img src="assets/img/icons/tick.svg" alt="">Clean condenser coil</li>
                       <li><img src="assets/img/icons/tick.svg" alt="">AC fan replacement  </li>
                     </ul>
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_type_1">
+                    <a href="contact.php" class="cs_btn cs_style_1 cs_type_1">
                       <span>Choose Plan</span>              
                     </a>
                   </div>
@@ -1298,7 +1298,7 @@ include('header.php')
                 </div>
                 <h3 class="cs_fs_24 cs_semibold cs_mb_6">Cool Wave System</h3>
                 <p class="cs_fs_14 cs_mb_25">Upgrade to the latest energy and efficient air conditioning Frost technology with Eco Cool</p>
-                <a href="about-us.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="about-us.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"></path>
@@ -1317,7 +1317,7 @@ include('header.php')
               <div class="cs_card_in cs_white_bg">
                 <h3 class="cs_fs_24 cs_semibold cs_mb_6">Arctic Installations</h3>
                 <p class="cs_fs_14 cs_mb_25">The Arctic Blast Repair service addresses all your air Eco Cool  conditioning repair needs</p>
-                <a href="about-us.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold cs_mb_30">
+                <a href="about-us.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold cs_mb_30">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"></path>
@@ -1342,7 +1342,7 @@ include('header.php')
                 </div>
                 <h3 class="cs_fs_24 cs_semibold cs_mb_6">Air Flow Solutions</h3>
                 <p class="cs_fs_14 cs_mb_25">Our Quick Cool Installation and service provides fast and cooling efficient installation </p>
-                <a href="about-us.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <a href="about-us.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"></path>
@@ -1361,7 +1361,7 @@ include('header.php')
               <div class="cs_card_in cs_white_bg">
                 <h3 class="cs_fs_24 cs_semibold cs_mb_6">Emergency Service</h3>
                 <p class="cs_fs_14 cs_mb_25">We handle everything from and assessing your cooling needs to positioning  Arctic Blast</p>
-                <a href="about-us.html" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold cs_mb_30">
+                <a href="about-us.php" class="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold cs_mb_30">
                   READ MORE
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"></path>
